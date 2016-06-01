@@ -41,6 +41,7 @@ build/
 # END	-	BUILD
 
 # START	-	ECLIPSE
+bin/
 .project
 .classpath
 .settings
